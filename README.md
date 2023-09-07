@@ -11,6 +11,10 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-Paulo-André97.vercel.app/api/top-langs/?username=Paulo-André97&show_icons=true&theme=radical&layout=compact" />
  </div>
  
+ &nbsp;
+ &nbsp;
+
+ 
   
   
 
@@ -44,5 +48,4 @@
 <a href = "mailto:contato.pauloandre1390@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-andré-pereira-de-souza-a0b18a1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>  
- <img alt="github-header-image (2).png" src="https://github.com/Paulo-André97/Paulo andré/blob/main/github-header-image%20(2).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
-   
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
