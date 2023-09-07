@@ -1,4 +1,6 @@
 # Paulo-André97
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Paulo-Andre97/Paulo-Andr-97/blob/main/hey%2C.png" />
 &nbsp;&nbsp;&nbsp;
 
@@ -6,21 +8,11 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p> 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Paulo-André97&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Paulo-André97.vercel.app/api/top-langs/?username=Paulo-André97&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-André97&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Paulo-André97 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-André97&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
- 
-  
-  
-
-
-
-## My Skills
 
 #### Main Stack:
 
